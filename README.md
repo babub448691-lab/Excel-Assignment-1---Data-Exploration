@@ -1,3 +1,3 @@
-# MY WORK AND ASSIENMENT
+# MY EXCEL WORK AND ASSIENMENT
 ## Excel Assignment 1 - Data Exploration
 
